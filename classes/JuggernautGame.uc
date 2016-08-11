@@ -154,6 +154,7 @@ defaultproperties
     //Use our new, custom pawn class instead of AOCPawn
     DefaultPawnClass=class'JuggernautPawn'
     PlayerControllerClass=class'JuggernautPlayerController'
+    GameReplicationInfoClass=class'JuggernautGRI'
     //Don't scale health regen up at full speed beacause it could easily get ridiculous...
     GiantHealthRegenScaleMultiplier = 0.5
 }
