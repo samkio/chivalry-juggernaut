@@ -1,5 +1,9 @@
 class JuggernautPawn extends AOCPawn;
 
+// Original source from: https://github.com/BradyBrenot/chivalry-giantslayers/blob/master/include/GiantSlayersPawn.uci
+
+
+
 var repnotify float GiantScale;
 var CylinderComponent Bubble;
 
